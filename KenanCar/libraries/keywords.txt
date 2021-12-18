@@ -1,0 +1,7 @@
+mycar	KEYWORD1
+
+Left	KEYWORD2
+Right	KEYWORD2
+Front	KEYWORD2
+CheckLines	KEYWORD2
+setupCar	KEYWORD2
